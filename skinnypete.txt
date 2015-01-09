@@ -1,0 +1,110 @@
+Skinny Pete
+Human Drunken Master
+Level 3
+
+Point Buy
+=========
+           wis  dex con str int cha
+abilities: 16+2 16  12  11  7   7
+points:    10   10  2   1  -4  -4   = 15pts
+
+Base Stats
+==========
+STR 11, DEX 16, CON 12, WIS 18, INT 7, CHA 7
+AC:    18 (10 + 3 dex + 4 wis + 1 dodge), 14 flat-footed
+CMD:   17 (10 + 3 dex + 4 wis)
+CMB:   +3 (+3 lvl +0 str)
+BAB:   +2
+Fort:  +4 (+3 base +1 con) 
+Ref:   +6 (+3 base +3 dex), Evasion
+Will:  +7 (+3 base +4 wis)
+Feats: Stunning Fist, Dodge, Mobility, Weapon Finesse, Deflect Arrows,
+       Weapon Focus (unarmed strike)
+Maybe: Improved Initiative, Agile Maneuvers
+Speed: 40ft
+
+Attacks/Actions
+===============
+Unarmed: +6    1d6 (+2 bab + 3 dex + 1 focus)
+Flurry:  +5/+5 1d6 (+3/+3 lvl - 2 twf + 3 dex + 1 focus)
+Stunning Fist (3/day): Fort DC 15 (10 + 1 lvl + 4 wis) to stun for 1 round as
+          part of an attack.
+Deflect Arrows (1/rnd): Take no damage from a single ranged attack.
+Mobility: +4 dodge bonus to AC against AoO provoked due to moving inside
+          threatened area.
+Drunken Ki (max 1): Spend 1 ki as a swift action to move 5ft w/o provoking AoO
+
+Skills
+======
++1 to knowledge-based skills when sober for more than two weeks.
+Need to figure out the rest
+
+Gear
+====
+None yet
+
+Backstory
+=========
+
+Appearance: Tall, 6'5", skinny, redheaded with freckles. Barefoot. Wears
+overalls and a straw hat.
+
+Hi, my name's Peter Pugnus*. Folks call me Skinny Pete. I'm not much for
+words or books or what-have-you, but ever since I gave up liquor my
+thoughts've been wandering a bit much. Figured I'd put what the gears in my
+head have been grindin' on into words. Maybe doin'
+that'll clear my mind a bit, Iunno.
+
+Guess I'll start from the start. I grew up with my mom and dad. Most folks
+prolly love their parents, but if I ever see mine again it'll be too soon. Mom
+was a courier for the 11th regimen something-or-other**, pretty much just a
+glorified mail-lady for the army. She was a total hardass. She'd beat the tar
+outta me if I was too slow to do what she told me to or bein' bad or just
+thinkin' 'bout bein' bad.
+
+You'd think a hardass like that woulda married another hardass, but dad was
+pretty much the opposite, a real nice guy. He was caring to a fault, never
+wantin' no trouble and always eager to please. So much so, actually -- and I
+hate to say it -- but he was a pretty big pushover. He'd spend all day serving
+the knight that led mom's battalion, Lord Douchebag*** or whatever his name was,
+kissing his butt and shining his shoes. Then he'd come home and do the same
+for mom. You'd think a man'd at least protect his kin, but dad bein' dad,
+wouldn't so much as bat an eye when mom turnt her belt on me.
+
+Anyway, I weren't no more'n twelve years old before I high-tailed it outta
+there and struck out on my own. I took to the streets, pickpocketing to get by
+and tryin' to stay outta trouble. Weren't no good at either o' those things,
+though, cuz I must've ended up in jail more'n a hundred times by the time I
+was fifteen.
+
+Round about then I found something I *was* good at -- fightin' and drinkin'
+and fightin' drunk. I started hittin' the bottle pretty hard at Rough-Houser's
+Bar, and there'd be a big brawl more nights than not. So I learned pretty
+quick how to handle myself in a fight. Dad always said I had an unnaturally
+tough body and an unnatural grace, so it weren't long before I made a name for
+myself as one of the scrawniest, toughest guys at the bar and folks started
+callin' me Skinny Pete.
+
+Some time later Mattrim GreyHammer caught wind of me and offered to let me
+join the Gorum Gang(?). He put a roof over my head and I punched and kicked
+whoever he told me to. We had a real good deal goin', and his cronies taught
+me to fight real good, too. Honed my fists to the point where they could kill
+a man instead o' just knockin' him out, which is pretty great if you ask me.
+
+Anyway, that's been my life the past few years. Lately we swore off Mattrim
+and started followin' Sarenrae, so I had to swear off the liquor. Otherwise
+not much is new. Oh, except I saw my mom in the street and socked her one real
+good! That was pretty cool.
+
+Footnotes
+* Try sticking "pugnus" into google translate.
+** 11th Regiment, 1st Battalion, 12th Company
+*** Lord Dutchbog
+
+References
+==========
+Human: http://paizo.com/pathfinderRPG/prd/races.html#humans
+Monk: http://paizo.com/pathfinderRPG/prd/classes/monk.html#monk
+Drunken Master: http://paizo.com/pathfinderRPG/prd/advanced/coreClasses/monk.html#drunken-master
+Feats: http://paizo.com/pathfinderRPG/prd/feats.html
+
