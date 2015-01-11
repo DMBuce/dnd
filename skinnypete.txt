@@ -12,6 +12,7 @@ Base Stats
 ==========
 STR 11, DEX 16, CON 12, WIS 18, INT 7, CHA 7
 AC:    18 (10 + 3 dex + 4 wis + 1 dodge), 14 flat-footed
+HP:    8 + 2d8 + 3 + 3
 CMD:   17 (10 + 3 dex + 4 wis)
 CMB:   +3 (+3 lvl +0 str)
 BAB:   +2
@@ -22,11 +23,13 @@ Feats: Stunning Fist, Dodge, Mobility, Weapon Finesse, Deflect Arrows,
        Weapon Focus (unarmed strike)
 Maybe: Improved Initiative, Agile Maneuvers
 Speed: 40ft
+Languages: Common
 
 Attacks/Actions
 ===============
 Unarmed:  +6    1d6 (+2 bab + 3 dex + 1 focus)
 Flurry:   +5/+5 1d6 (+3/+3 lvl - 2 twf + 3 dex + 1 focus)
+Slingshot: +5   1d2 (+2 bab + 3 dex)
 Stunning Fist (3/day): Fort DC 15 (10 + 1 lvl + 4 wis) to stun for 1 round as
           part of an attack.
 Deflect Arrows (1/rnd): Take no damage from a single ranged attack.
@@ -36,12 +39,23 @@ Drunken Ki (max 1): Spend 1 ki as a swift action to move 5ft w/o provoking AoO
 
 Skills
 ======
+3 ranks per level
 +1 to knowledge-based skills when sober for more than two weeks.
-Need to figure out the rest
+
+Acrobatics       +7 (1 rank +3 dex +3 class)
+Climb            +4 (1 rank +0 str +3 class)
+Escape Artist    +7 (1 rank +3 dex +3 class)
+Intimidate       +2 (1 rank -2 cha +3 class)
+Perception       +8 (1 rank +4 wis +3 class)
+Sense Motive     +8 (1 rank +4 wis +3 class)
+Stealth          +7 (1 rank +3 dex +3 class)
+Swim             +4 (1 rank +0 str +3 class)
+Sleight of Hand  +4 (1 rank +3 dex)
 
 Gear
 ====
-None yet
+5gp
+Overalls, Straw Hat, Flask of Moonshine, Slingshot
 
 Backstory
 =========
