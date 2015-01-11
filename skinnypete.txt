@@ -12,7 +12,7 @@ Base Stats
 ==========
 STR 11, DEX 16, CON 12, WIS 18, INT 7, CHA 7
 AC:    18 (10 + 3 dex + 4 wis + 1 dodge), 14 flat-footed
-HP:    8 + 2d8 + 3 + 3
+HP:    26 (8 + 6 roll + 6 roll + 3 con + 3 lvl)
 CMD:   17 (10 + 3 dex + 4 wis)
 CMB:   +3 (+3 lvl +0 str)
 BAB:   +2
@@ -21,6 +21,7 @@ Ref:   +6 (+3 base +3 dex), Evasion
 Will:  +7 (+3 base +4 wis)
 Feats: Stunning Fist, Dodge, Mobility, Weapon Finesse, Deflect Arrows,
        Weapon Focus (unarmed strike)
+Traits: Headstrong, Suspicious, Child of the Streets
 Maybe: Improved Initiative, Agile Maneuvers
 Speed: 40ft
 Languages: Common
@@ -36,21 +37,24 @@ Deflect Arrows (1/rnd): Take no damage from a single ranged attack.
 Mobility: +4 dodge bonus to AC against AoO provoked due to moving inside
           threatened area.
 Drunken Ki (max 1): Spend 1 ki as a swift action to move 5ft w/o provoking AoO
+Headstrong: Must stop and correct actions that are against alignment or be
+          shaken for an hour
 
 Skills
 ======
 3 ranks per level
 +1 to knowledge-based skills when sober for more than two weeks.
++1 to sailing-related checks
 
 Acrobatics       +7 (1 rank +3 dex +3 class)
 Climb            +4 (1 rank +0 str +3 class)
 Escape Artist    +7 (1 rank +3 dex +3 class)
 Intimidate       +2 (1 rank -2 cha +3 class)
 Perception       +8 (1 rank +4 wis +3 class)
-Sense Motive     +8 (1 rank +4 wis +3 class)
+Sense Motive     +9 (1 rank +4 wis +3 class +1 trait)
 Stealth          +7 (1 rank +3 dex +3 class)
 Swim             +4 (1 rank +0 str +3 class)
-Sleight of Hand  +4 (1 rank +3 dex)
+Sleight of Hand  +8 (1 rank +3 dex +3 class +1 trait)
 
 Gear
 ====
