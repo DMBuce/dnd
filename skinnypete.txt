@@ -2,12 +2,6 @@ Skinny Pete
 Human Drunken Master
 Level 3
 
-Point Buy
-=========
-           wis  dex con str int cha
-abilities: 16+2 16  12  11  7   7
-points:    10   10  2   1  -4  -4   = 15pts
-
 Base Stats
 ==========
 STR 11, DEX 16, CON 12, WIS 18, INT 7, CHA 7
@@ -28,17 +22,17 @@ Languages: Common
 
 Attacks/Actions
 ===============
-Unarmed:  +6    1d6 (+2 bab + 3 dex + 1 focus)
-Flurry:   +5/+5 1d6 (+3/+3 lvl - 2 twf + 3 dex + 1 focus)
-Slingshot: +5   1d2 (+2 bab + 3 dex)
+Unarmed:   +6    1d6 (+2 bab + 3 dex + 1 focus)
+Flurry:    +5/+5 1d6 (+3/+3 lvl - 2 twf + 3 dex + 1 focus)
+Slingshot: +5    1d2 (+2 bab + 3 dex)
 Stunning Fist (3/day): Fort DC 15 (10 + 1 lvl + 4 wis) to stun for 1 round as
-          part of an attack.
+           part of an attack.
 Deflect Arrows (1/rnd): Take no damage from a single ranged attack.
 Mobility: +4 dodge bonus to AC against AoO provoked due to moving inside
-          threatened area.
+           threatened area.
 Drunken Ki (max 1): Spend 1 ki as a swift action to move 5ft w/o provoking AoO
 Headstrong: Must stop and correct actions that are against alignment or be
-          shaken for an hour
+           shaken for an hour
 
 Skills
 ======
@@ -59,7 +53,7 @@ Sleight of Hand  +8 (1 rank +3 dex +3 class +1 trait)
 Gear
 ====
 5gp
-Overalls, Straw Hat, Flask of Moonshine, Slingshot
+Overalls, Straw Hat, Flask of Moonshine, Slingshot, 20ft. Rope
 
 Backstory
 =========
@@ -117,6 +111,12 @@ Footnotes
 * Try sticking "pugnus" into google translate.
 ** 11th Regiment, 1st Battalion, 12th Company
 *** Lord Dutchbog
+
+Point Buy
+=========
+           wis  dex con str int cha
+abilities: 16+2 16  12  11  7   7
+points:    10   10  2   1  -4  -4   = 15pts
 
 References
 ==========
